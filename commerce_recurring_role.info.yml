@@ -1,0 +1,8 @@
+name: Commerce recurring role
+type: module
+description: Add role subscription type.
+package: Custom
+core: 8.x
+core_version_requirement: ^8 || ^9
+dependencies:
+  - commerce_recurring
